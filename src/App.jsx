@@ -27,11 +27,11 @@ const siteProps = {
   name: "Kehinde Timothy Ajeigbe",
   title: "Software Engineer",
   email: "ajeigbekehinde160@gmail.com",
-  gitHub: "https://github.com/donkennie",
-  instagram: "https://www.instagram.com/ajeigbekehindet/",
-  linkedIn: "https://www.linkedin.com/in/kehinde-timothy-ajeigbe/",
+  gitHub: "donkennie",
+  instagram: "ajeigbekehindet/",
+  linkedIn: "kehinde-timothy-ajeigbe/",
   medium: "",
-  twitter: "https://x.com/_donkennie",
+  twitter: "_donkennie",
   youTube: "Code",
 };
 
